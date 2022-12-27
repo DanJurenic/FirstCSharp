@@ -1,0 +1,15 @@
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\bin\Debug\net6.0\FirstCSharp.exe
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\bin\Debug\net6.0\FirstCSharp.deps.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\bin\Debug\net6.0\FirstCSharp.runtimeconfig.json
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\bin\Debug\net6.0\FirstCSharp.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\bin\Debug\net6.0\FirstCSharp.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.AssemblyReference.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfoInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.AssemblyInfo.cs
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.csproj.CoreCompileInputs.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\refint\FirstCSharp.dll
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.pdb
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\FirstCSharp.genruntimeconfig.cache
+E:\Dan\Coding_Dojo_Coursework\C_sharp\FirstCSharp\obj\Debug\net6.0\ref\FirstCSharp.dll
